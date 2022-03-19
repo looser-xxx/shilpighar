@@ -1,0 +1,15 @@
+        .roundLogoWithImage
+        {
+            border-radius: 50%;
+        }
+        .active
+        {
+          color: white;
+        }
+        .adressBox
+        {
+            height: 100vh;
+            width: 100vw;
+            display: flex;
+            justify-content: center;
+        }
